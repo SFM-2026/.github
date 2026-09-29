@@ -2,7 +2,7 @@
 
 <img src="https://github.com/SFM-2026.png" alt="SFM 2026 logo" width="140">
 
-# SM-2302 Software for Mathematicians
+# SPM-1203/SM-2302 Software for Mathematicians
 
 **Universiti Brunei Darussalam · Faculty of Science · 2026/27**
 
