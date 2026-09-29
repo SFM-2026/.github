@@ -8,7 +8,7 @@
 
 </div>
 
-Welcome! This organisation hosts the **assignment repositories** for SM-2302. All lecture notes, announcements and deadlines are on **Canvas**.
+Welcome! This organisation hosts the **assignment repositories** for SPM-1203/SM-2302. All lecture notes, announcements and deadlines are on **Canvas**.
 
 ## What you'll use
 
